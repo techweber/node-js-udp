@@ -14,8 +14,11 @@ In addition, TCP communications indicate the order in which data packets should 
 
 
 Node dgram module :
-The dgram module provides a way of working with Datagram sockets. Install: npm install dgram
+The dgram module provides a way of working with Datagram sockets. 
 
+Install: 
+
+> npm install dgram
 
 Run server:
 
